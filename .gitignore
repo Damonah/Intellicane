@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+firebase-functions-node/functions/node_modules
+node_modules/
+.firebaserc
+/firebase-functions-node/functions/test.rtf
